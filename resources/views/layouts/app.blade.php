@@ -24,8 +24,8 @@
   <div id="app">
     <div class="main-wrapper">
       <div class="navbar-bg"></div>
-      @include('layouts/partials/header')
-      @include('layouts/partials/sidebar')
+      {{-- @include('layouts/partials/header') --}}
+      {{-- @include('layouts/partials/sidebar') --}}
       <!-- Main Content -->
       <div class="main-content">
         <section class="section">
